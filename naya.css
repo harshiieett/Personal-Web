@@ -1,0 +1,60 @@
+body{
+  background-color: none;
+  text-align: center;
+  background-image: url('D:\site work\nature.PNG');
+}
+.profile
+{
+
+}
+img{
+position: relative;
+border: solid 10px;
+
+  margin: 0 ;
+  height: 500px;
+  width: 400px;
+  margin: solid-black;
+}
+h1
+{
+  margin:50px 0 5px 0;
+  font-family: Copperplate, Papyrus, fantasyt;
+
+  font-size: 5.625rem;
+
+    display: inline-block;
+}
+h2{
+
+   font-family: Copperplate, Papyrus, fantasyt;
+   font-size:2.5rem;
+}
+h3{
+  font-family: "Brush Script MT", cursive;
+
+}
+h4{
+font-family:  Georgia, Verdana, sans-serif;
+}
+p{
+  font-family: Garamond, serif;
+}
+div
+{
+}
+.tree
+{width: 100px;
+  height: 100px;
+
+
+}
+.nature{
+
+
+
+}
+.profile{
+
+
+}
